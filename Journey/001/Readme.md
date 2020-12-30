@@ -1,6 +1,6 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# Day1
+# Starting the journey...
 
 ## Cloud Research
 
