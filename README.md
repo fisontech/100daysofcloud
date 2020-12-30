@@ -14,13 +14,13 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Chris's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi, I'm Chris! I'm a End User Delivery Engineer, looking to improve and better understand the cloud platform.
 
-[✍️ Tell us why you started this challenge]
+I am doing this challenge to put some real world scenarios into practice and learn more about cloud in the process.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I would like to complete az401.
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
