@@ -8,7 +8,7 @@ Hi, I'm Chris! I'm a End User Delivery Engineer, looking to improve and better u
 
 I am doing this challenge to put some real world scenarios into practice and learn more about cloud in the process.
 
-I would like to complete some cloud exams and further my career in cloud tech.
+I would like to complete some cloud exams and further my career in cloud.
 
 - [Twitter](https://twitter.com/username)
 - [LinkedIn](https://www.linkedin.com/in/chrisfison)
