@@ -8,6 +8,4 @@ Today I setup my github, cloned my repo and need to decide on learning paths.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
 [link](https://www.linkedin.com/posts/chris-fison_fisontechnet-100days-activity-6750066511219585024-ErnH)
