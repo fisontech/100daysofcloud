@@ -10,8 +10,8 @@ I am doing this challenge to put some real world scenarios into practice and lea
 
 I would like to complete az401.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/username)
+- [LinkedIn](https://www.linkedin.com/in/chrisfison)
 
 ## Stepping out the door
 
