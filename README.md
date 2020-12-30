@@ -11,7 +11,7 @@ I am doing this challenge to put some real world scenarios into practice and lea
 I would like to complete some cloud exams and further my career in cloud.
 
 - [Twitter](https://twitter.com/username)
-- [LinkedIn](https://www.linkedin.com/in/chrisfison)
+- [LinkedIn](https://www.linkedin.com/in/chris-fison)
 
 ## Stepping out the door
 

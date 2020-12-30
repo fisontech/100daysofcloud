@@ -10,4 +10,4 @@ Today I setup my github, cloned my repo and need to decide on learning paths.
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/chris-fison_fisontechnet-100days-activity-6750066511219585024-ErnH)
