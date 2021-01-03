@@ -11,11 +11,9 @@ Automation.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+https://www.fisontech.net/100days#h.rf0bxd2wd7cd
 
 ## Social Proof
-
-See https://www.fisontech.net/100days#h.rf0bxd2wd7cd
 
 [LinkedIn](https://www.linkedin.com/posts/chris-fison_fisontechnet-100days-activity-6751491577694175232-XDh-)
 
