@@ -21,7 +21,7 @@ I would like to complete some cloud exams and further my career in cloud.
 - [ ] ☁️ 4 > [Docker and Azure Integration](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Azure CLI - Jenkins](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Azure Windows Virtual Desktop](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 7 > [Prepare an application for Azure Kubernetes Service (AKS)](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
